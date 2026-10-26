@@ -1,0 +1,16 @@
+your pc will have a life after this
+
+
+
+
+Jarvis Startup is a no-login app for Windows and Mac.
+On login, it plays your welcome video fullscreen, closes it by itself, 
+then plays your music in the background on loop until you stop it. Built with Python and VLC.
+
+For the repo top, use this longer one:
+
+Jarvis Startup turns your PC login into a Jarvis-style boot-up.
+Pick your own welcome video and music folder, press Install to Startup, 
+and every login plays the video, closes it automatically,
+and keeps your music running minimized in the background.
+No account, no cloud, all settings saved locally.
