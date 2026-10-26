@@ -1,0 +1,2 @@
+Put your songs in this folder. They will play on loop after the welcome video.
+You can delete this text file.
