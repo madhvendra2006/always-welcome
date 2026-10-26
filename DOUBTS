@@ -1,0 +1,6 @@
+to stop music open run-windows/run-mac.command
+or Stop: Press Stop Music in the app. 
+If the app is closed, Windows: taskkill /IM vlc.exe /F, Mac: pkill vlc. 
+Remove from Startup stops the next login only.
+you can add any welcome videos and music to run in background.
+VLC and PYTHON IS MUST
